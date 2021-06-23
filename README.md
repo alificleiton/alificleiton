@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi I'm Alifi Cleiton 😄 
 
-I'm Alifi Cleiton Bachelor in Computer Science at Federal University of Itajuba (UNIFEI).
+Bachelor in Computer Science at Federal University of Itajuba (UNIFEI).
 
 💻 Full Stack Developer Freelancer
 
