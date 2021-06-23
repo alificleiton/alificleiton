@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I'm Alifi Cleiton 😄 
+
+I'm Alifi Cleiton Bachelor in Computer Science at Federal University of Itajuba (UNIFEI).
+
+💻 Full Stack Developer Freelancer
+
+💻 Front-End : JavaScript, React , Vue , Angular , CSS , HTML , Bootstrap
+
+💻 Back-End: JavaScript, PHP , Node.js , MySQL, MongoDB
+
+🌱 I'm learning mobile apps: React Native and Flutter.
+
+
+
