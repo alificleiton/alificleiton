@@ -19,9 +19,9 @@ Hi I'm Alifi Cleiton 😄
 
 Bachelor in Computer Science at Federal University of Itajuba (UNIFEI).
 
-💻 Full Stack Developer Freelancer
+💻 Full Stack Developer
 
-💻 Front-End : JavaScript, React , Vue , Angular , CSS , HTML , Bootstrap
+💻 Front-End : JavaScript, React , Typescript , Vue , Angular , CSS , HTML , Bootstrap
 
 💻 Back-End: JavaScript, PHP , Node.js , MySQL, MongoDB
 
