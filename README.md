@@ -21,9 +21,11 @@ Bachelor in Computer Science at Federal University of Itajuba (UNIFEI).
 
 💻 Full Stack Developer
 
-💻 Front-End : JavaScript, React , Typescript , Vue , Angular , CSS , HTML , Bootstrap
+💻 Front-End : JavaScript, React , Typescript , Vue , Angular , CSS , HTML , Bootstrap , Next.JS , Laravel
 
-💻 Back-End: JavaScript, PHP , Node.js , MySQL, MongoDB
+💻 Back-End: JavaScript, PHP , Node.js , MySQL, MongoDB , Nest.JS
+
+💻 RabbitMQ , Elasticsearch , API REST, LINUX , DOCKER
 
 🌱 I'm learning mobile apps: React Native and Flutter.
 
